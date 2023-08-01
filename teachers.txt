@@ -1,0 +1,5 @@
+101,Rajesh Kumar,10th A
+102,Deepika Patel,11th B
+103,Amit Sharma,12th C
+104,Priya Gupta,11th D
+105,Nikhil Rastogi,10 C

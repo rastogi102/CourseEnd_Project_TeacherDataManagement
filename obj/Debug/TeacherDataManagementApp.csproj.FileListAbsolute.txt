@@ -1,0 +1,9 @@
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\bin\Debug\teachers.txt
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\bin\Debug\TeacherDataManagementApp.exe.config
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\bin\Debug\TeacherDataManagementApp.exe
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\bin\Debug\TeacherDataManagementApp.pdb
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\obj\Debug\TeacherDataManagementApp.csproj.AssemblyReference.cache
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\obj\Debug\TeacherDataManagementApp.csproj.SuggestedBindingRedirects.cache
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\obj\Debug\TeacherDataManagementApp.csproj.CoreCompileInputs.cache
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\obj\Debug\TeacherDataManagementApp.exe
+F:\Training Stuff\Dot netTraining\Projects\TeacherDataManagementApp\TeacherDataManagementApp\obj\Debug\TeacherDataManagementApp.pdb
